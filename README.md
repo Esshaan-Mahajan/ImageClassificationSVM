@@ -1,2 +1,2 @@
 # ImageClassificationSVM
-Used multiclass classification in SVM to classify images as cats,dogs,horeses and humans
+Used multiclass classification in SVM to classify images as cats,dogs,horses and humans
